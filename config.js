@@ -1,5 +1,5 @@
 // config.js
 module.exports = {
-  TOKEN: '7240235854:AAEkyQA-Lkd9zsq3C-GyAo2Y-vG2lTpZSEM',
-  OWNER_ID: '7110319203', // Ganti dengan ID pemilik Anda
+  TOKEN: '8169225899:AAFquBTSQMa3X9eP0xrekbC0cNgeA-5X3hE',
+  OWNER_ID: '6758060721', // Ganti dengan ID pemilik Anda
 };
