@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "deobfuscator": "^2.4.5",
+    "fs": "^0.0.1-security",
+    "js-beautify": "^1.15.1",
+    "js-confuser": "^1.7.3",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "sus-obfuscator": "^2.5.1",
+    "telegraf": "^4.16.3"
+  }
+}
